@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Peter Dinh
 #### I'm a student learning web development.
-![I'm a student learning web development.]
+![I'm a student learning web development.] <br/>
 ...............................................................
 
 Skills: Python / JS / HTML / CSS
