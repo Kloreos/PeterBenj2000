@@ -1,6 +1,7 @@
 ### Hi, I'm Peter!
-I'm 14 and studying python, javascript,...
-
+I'm 14
+Skills: Python/JS/HTML/CSS
+Currently working on a small web design 
 
 <!--
 **PeterBenj2000/PeterBenj2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
