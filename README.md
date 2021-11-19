@@ -1,4 +1,4 @@
-![Profile_banner](https://user-images.githubusercontent.com/54533061/142570170-a5f2eebf-60c6-4aa6-a8a3-b485557c288d.png)
+![Profile_banner](https://user-images.githubusercontent.com/54533061/142574513-df28445e-f73f-445e-9c45-4ed64ec68fdb.png)
 ### Hi there 👋, my name is Peter Dinh
 #### I'm a student learning web development n software engineering.
 <br/>
