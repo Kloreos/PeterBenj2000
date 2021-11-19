@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Peter!
+I'm 14 and studying python, javascript,...
+
 
 <!--
 **PeterBenj2000/PeterBenj2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
