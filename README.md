@@ -5,11 +5,10 @@
 
 ...............................................................
 
-Skills: Python / JS / HTML / CSS
+Skills: Python / JS / CPP
 
 
-- 🔭 I'm working on a small web design. 
-- 🌱 currently learning React 
+- I'm working on a project
 - 📫 How to reach me: PeterBenj2000@gmail.com
 
 
